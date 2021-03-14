@@ -8,6 +8,7 @@ I've added some quality of life upgrades to fit my needs:
 
 To see the demo with my modifications click [here](https://romthesheep.github.io/chirimoya/)
 
+---
 <p align="center">
   <img src="img/chirimoya.svg" width="200">
   <h1 align="center">Chirimoya</h1>
