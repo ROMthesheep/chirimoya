@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="img/chirimoya.svg" width="200">
-  <h1 align="center">Chirimoya</h1>
-  <h2 align="center">Presentation software based on Angular</h2>
-</p>
-
 I've added some quality of life upgrades to fit my needs:
 * Sass package updated to 5.0 to work with python 3.x
 * Mouse control added: left click to show next slide, right to show previous slide
@@ -11,6 +5,13 @@ I've added some quality of life upgrades to fit my needs:
 * Text and item selection disabled
 * Control arrrows were deleted, now are redundant
 * p5js pre-instaled with the package
+
+
+<p align="center">
+  <img src="img/chirimoya.svg" width="200">
+  <h1 align="center">Chirimoya</h1>
+  <h2 align="center">Presentation software based on Angular</h2>
+</p>
 
 Chirimoya is a presentation made in Angular that you can use as a template to make your own presentation. Check out the <a target="_blank"  href="https://rawgit.com/LuisJoseSanchez/chirimoya/master/dist/chirimoya/index.html">live demo</a>.
 
