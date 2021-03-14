@@ -5,7 +5,8 @@ I've added some quality of life upgrades to fit my needs:
 * Text and item selection disabled
 * Control arrrows were deleted, now are redundant
 * p5js pre-instaled with the package
-To see the demo with my mooooodifications click [here](https://romthesheep.github.io/chirimoya/)
+
+To see the demo with my modifications click [here](https://romthesheep.github.io/chirimoya/)
 
 <p align="center">
   <img src="img/chirimoya.svg" width="200">
