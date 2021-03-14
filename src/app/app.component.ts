@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {SlidesService} from './slides.service'
 
 @Component({
   selector: 'app-root',
@@ -6,6 +7,17 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+
+  constructor(private slidesService: SlidesService) { }
+
+  nextSlide() {
+    this.slidesService.goToNextSlide();
+  }
+  prevSlide($event) {
+    $event.preventDefault();
+    this.slidesService.goToPreviousSlide()
+  }
+ 
   consoleCode1 = 'git clone https://github.com/LuisJoseSanchez/chirimoya';
   
   consoleCode2 = `

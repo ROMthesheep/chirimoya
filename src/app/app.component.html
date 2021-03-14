@@ -1,4 +1,4 @@
-<presentation [theme]="'light'" [transition]="'fade'">
+<presentation [theme]="'light'" [transition]="'fade'" (keydown)="toogleControl($event)" (click)="nextSlide()" (contextmenu)="prevSlide($event)" >
 
   <slide>
     <img src="./assets/img/chirimoya.svg" width="400px">
