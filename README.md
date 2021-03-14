@@ -1,4 +1,4 @@
-I've added some quality of life upgrades to fit my needs:
+I've added some quality of life changes to fit my needs:
 * Sass package updated to 5.0 to work with python 3.x
 * Mouse control added: left click to show next slide, right to show previous slide
 * Cursor hidden
